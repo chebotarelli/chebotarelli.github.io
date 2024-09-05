@@ -1,10 +1,6 @@
 <html>
   <h1>chebotarelli.github.io</h1>
-  <style>
-    p.center {
-      color: red;
-    }
-  </style>
-  <p>this is p</p>
+
+  <p style="color:blue;margin-left:30px;">this is p</p>
 
 </html>
